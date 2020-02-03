@@ -43,9 +43,11 @@ Any of the above rules and timeline can be amended in the future by a new GAP.
 
 If this GAP is agreed upon, the Swarm Network commits to implement the changes and start the Swarm Masternodes Fund by the end of April 2020, and no later than the end of May 2020. 
 
-It will also require the creation of a multisig Ethereum address administered and protected by the Swarm Network. It will need at least 3 signatures or a similarly secure protection in accordance to the Swarm Network’s own standards. The community will be made aware of the identity of those Council members holding the signatures to access the Swarm Masternodes Fund. 
+It will also require the creation of a multisig Ethereum address administered and protected by the Swarm Council. It will need at least 3 signatures or a similarly secure protection in accordance to the Swarm Network’s own standards. 
 
-A new GAP in the future will aim to create a (Aragon) DAO that will vote on how to deploy the funds.
+The community will be made aware of the identity of those Council members holding the signatures to access the Swarm Masternodes Fund. 
+
+A new GAP in the future will consider the creation of a (Aragon) DAO that will vote on how to deploy the funds.
 
 The Ethereum wallet containing the Swarm Masternodes Fund will be made public.
 
